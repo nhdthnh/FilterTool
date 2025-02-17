@@ -1,2 +1,2 @@
-output
-.xlsx
+output/
+*.xlsx
